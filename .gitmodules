@@ -1,0 +1,9 @@
+[submodule "OrsaDemoModels"]
+	path = OrsaDemoModels
+	url = https://github.com/IdeaMfa/OrsaDemoModels
+[submodule "OrsaDemoWebApi"]
+	path = OrsaDemoWebApi
+	url = https://github.com/IdeaMfa/OrsaDemoWebApi
+[submodule "OrsaDemoWebApp"]
+	path = OrsaDemoWebApp
+	url = https://github.com/IdeaMfa/OrsaDemoWebApp
